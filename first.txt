@@ -1,3 +1,6 @@
 this is my first git... . . .
 this is the second line of changes
 some more changes
+this is my first git... . . .
+this is the second line of changes
+some more changes
